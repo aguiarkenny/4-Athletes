@@ -1,0 +1,47 @@
+Listagem de caminhos de pasta para o volume OS
+O número de série do volume é 0E13-3932
+C:.
+¦   config.py
+¦   estrutura.txt
+¦   pi_pipeline_3rd_version.py
+¦   README.md
+¦   requirements.txt
+¦   
++---4-Athletes
+¦       pi_pipeline_3rd_version.py
+¦       README.md
+¦       
++---data
+¦   +---processed
+¦   +---raw
+¦           excerto1.mp4
+¦           excerto2.mp4
+¦           excerto3.mp4
+¦           excerto4.mp4
+¦           excerto5.mp4
+¦           excerto6.mp4
+¦           excerto7.mp4
+¦           excerto8.mp4
+¦           excerto9.mp4
+¦           exerrado1.mp4
+¦           exerrado2.mp4
+¦           exerrado3.mp4
+¦           exerrado4.mp4
+¦           exerrado5.mp4
+¦           
++---experiments
+¦       process_all_videos.py
+¦       
++---models
++---notebooks
++---src
+    +---prediction
+    ¦       predict.py
+    ¦       
+    +---preprocessing
+    ¦       keypoint_extractor.py
+    ¦       
+    +---training
+    ¦       train_model.py
+    ¦       
+    +---utils
